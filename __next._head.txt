@@ -3,6 +3,6 @@
 4:I[416305,["/quick-tab-web/_next/static/chunks/6088e8ae08f7bb7e.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[37471,["/quick-tab-web/_next/static/chunks/6088e8ae08f7bb7e.js"],"IconMark"]
-0:{"buildId":"3PL2eQuiFf0-2HDIKBktb","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"oHC9fIqljZ_BvH1YPSQrZ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","link","0",{"rel":"icon","href":"/quick-tab-web/favicon.ico?favicon.27cece6a.ico","sizes":"128x128","type":"image/x-icon"}],["$","$L7","1",{}]]
