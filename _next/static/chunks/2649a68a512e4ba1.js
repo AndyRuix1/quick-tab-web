@@ -1,3 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,452594,e=>{"use strict";var c=e.i(529364),a=e.i(300344),t=e.i(962147);let l=(e,l)=>{let s=(0,c.forwardRef)(({className:s,...i},r)=>(0,c.createElement)(t.default,{ref:r,iconNode:l,className:(0,a.mergeClasses)(`lucide-${(0,a.toKebabCase)((0,a.toPascalCase)(e))}`,`lucide-${e}`,s),...i}));return s.displayName=(0,a.toPascalCase)(e),s};e.s(["default",()=>l])},406811,e=>{"use strict";var c=e.i(452594);let a=[["path",{d:"M9 18V5l12-2v13",key:"1jmyc2"}],["circle",{cx:"6",cy:"18",r:"3",key:"fqmcym"}],["circle",{cx:"18",cy:"16",r:"3",key:"1hluhg"}]],t=(0,c.default)("music",a);e.s(["__iconNode",()=>a,"default",()=>t])}]);
-
-//# sourceMappingURL=3bd91f4c99f5c859.js.map
