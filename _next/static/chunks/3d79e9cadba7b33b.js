@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,452594,e=>{"use strict";var t=e.i(529364),a=e.i(300344),l=e.i(962147);let s=(e,s)=>{let r=(0,t.forwardRef)(({className:r,...i},c)=>(0,t.createElement)(l.default,{ref:c,iconNode:s,className:(0,a.mergeClasses)(`lucide-${(0,a.toKebabCase)((0,a.toPascalCase)(e))}`,`lucide-${e}`,r),...i}));return r.displayName=(0,a.toPascalCase)(e),r};e.s(["default",()=>s])},389063,e=>{"use strict";var t=e.i(452594);let a=[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",ry:"2",key:"1yt0o3"}],["path",{d:"M12.667 8 10 12h4l-2.667 4",key:"h9lk2d"}]],l=(0,t.default)("smartphone-charging",a);e.s(["__iconNode",()=>a,"default",()=>l])}]);
+
+//# sourceMappingURL=340e6e972cce51e3.js.map

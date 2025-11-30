@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,452594,e=>{"use strict";var t=e.i(529364),a=e.i(300344),s=e.i(962147);let l=(e,l)=>{let c=(0,t.forwardRef)(({className:c,...d},o)=>(0,t.createElement)(s.default,{ref:o,iconNode:l,className:(0,a.mergeClasses)(`lucide-${(0,a.toKebabCase)((0,a.toPascalCase)(e))}`,`lucide-${e}`,c),...d}));return c.displayName=(0,a.toPascalCase)(e),c};e.s(["default",()=>l])},343534,e=>{"use strict";var t=e.i(452594);let a=[["path",{d:"m16 18 6-6-6-6",key:"eg8j8"}],["path",{d:"m8 6-6 6 6 6",key:"ppft3o"}]],s=(0,t.default)("code",a);e.s(["__iconNode",()=>a,"default",()=>s])}]);
+
+//# sourceMappingURL=539ccf8f46eecae1.js.map
