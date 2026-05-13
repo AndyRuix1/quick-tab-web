@@ -1,0 +1,48 @@
+{
+  "id": "/quick-tab-web/",
+  "name": "Calculadora Presupuestal",
+  "short_name": "Calculadora",
+  "description": "¿Presupuesto confuso? No hay problema, lo calculamos",
+  "lang": "es",
+  "start_url": "/quick-tab-web/",
+  "scope": "/quick-tab-web/",
+  "display": "standalone",
+  "background_color": "#FFF9F0",
+  "theme_color": "#B6771D",
+  "icons": [
+    {
+      "src": "/quick-tab-web/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/quick-tab-web/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/quick-tab-web/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/quick-tab-web/screenshot-mobile1.png",
+      "sizes": "429x939",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vista móvil de la calculadora"
+    },
+    {
+      "src": "/quick-tab-web/screenshot-mobile2.png",
+      "sizes": "429x939",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vista móvil de la calculadora"
+    }
+  ]
+}
